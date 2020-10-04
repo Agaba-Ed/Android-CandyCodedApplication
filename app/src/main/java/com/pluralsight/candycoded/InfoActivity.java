@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
 import android.view.View;
-
+import android.content.Intent;
 import com.squareup.picasso.Picasso;
 
 public class InfoActivity extends AppCompatActivity {
